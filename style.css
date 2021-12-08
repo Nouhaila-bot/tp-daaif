@@ -1,0 +1,19 @@
+.background-info {
+
+    
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat
+    
+}
+
+body{
+    background-color : rgb(252, 168, 227);
+}
+.cl{
+    background-color : rgb(255, 255, 255);
+}
+.navbar{
+    ackground-color: rgb(255, 251, 0);
+
+}
